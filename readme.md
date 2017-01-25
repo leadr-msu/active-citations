@@ -149,3 +149,5 @@ Footnote:
 
 Bibliography:
 Karmaus, Wilfried, and John F. Riebow. “Storage of Serum in Plastic and Glass Containers May Alter the Serum Concentration of Polychlorinated Biphenyls.” Environmental Health Perspectives 112 (May 2004): 643–47. http://www.jstor.org/stable/3435987.
+
+#####Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
