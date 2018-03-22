@@ -72,9 +72,9 @@ Online articles follow the same guidelines for printed articles. Include all inf
 
 Author, A. A., & Author, B. B. (Date of publication). Title of article. _Title of Online Periodical, volume number_(issue number if available). Retrieved from
 
-http://www.someaddress.com/full/url/
+[http://www.someaddress.com/full/url/](http://www.someaddress.com/full/url/)
 
-Bernstein, M. (2002). 10 tips on writing the living Web. _A List Apart: For People Who Make Websites, 149_. Retrieved from http://www.alistapart.com/articles/writeliving
+Bernstein, M. (2002). 10 tips on writing the living Web. _A List Apart: For People Who Make Websites, 149_. Retrieved from [http://www.alistapart.com/articles/writeliving](http://www.alistapart.com/articles/writeliving)
 
 Because online materials can potentially change URLs, APA recommends providing a Digital Object Identifier (DOI), when it is available, as opposed to the URL. DOIs are an attempt to provide stable, long-lasting links for online articles. They are unique to their documents and consist of a long alphanumeric code. Many-but not all-publishers will provide an article's DOI on the first page of the document.
 
@@ -86,15 +86,15 @@ Author, A. A., & Author, B. B. (Date of publication). Title of article. _Title 
 
 Brownlie, D. (2007). Toward effective poster presentations: An annotated bibliography. _European Journal of Marketing, 41_, 1245-1283. doi:10.1108/03090560710821161
 
-Wooldridge, M.B., & Shapka, J. (2012). Playing with technology: Mother-toddler interaction scores lower during play with electronic toys. _Journal of Applied Developmental Psychology, 33_(5), 211-218. http://dx.doi.org/10.1016/j.appdev.2012.05.005
+Wooldridge, M.B., & Shapka, J. (2012). Playing with technology: Mother-toddler interaction scores lower during play with electronic toys. _Journal of Applied Developmental Psychology, 33_(5), 211-218. [http://dx.doi.org/10.1016/j.appdev.2012.05.005](http://dx.doi.org/10.1016/j.appdev.2012.05.005)
 
 ##### ARTICLE WITHOUT DOI ASSIGNED
 
 Online scholarly journal articles without a DOI require the URL of the journal home page. Remember that one goal of citations is to provide your readers with enough information to find the article; providing the journal home page aids readers in this process.
 
-Author, A. A., & Author, B. B. (Date of publication). Title of article. Title of Journal, volume number. Retrieved from http://www.journalhomepage.com/full/url/
+Author, A. A., & Author, B. B. (Date of publication). Title of article. Title of Journal, volume number. Retrieved from [http://www.journalhomepage.com/full/url/](http://www.journalhomepage.com/full/url/)
 
-Kenneth, I. A. (2000). A Buddhist response to the nature of human rights. Journal of Buddhist Ethics, 8. Retrieved from http://www.cac.psu.edu/jbe/twocont.html
+Kenneth, I. A. (2000). A Buddhist response to the nature of human rights. Journal of Buddhist Ethics, 8. Retrieved from [http://www.cac.psu.edu/jbe/twocont.html](http://www.cac.psu.edu/jbe/twocont.html)
 
 ## CHICAGO STYLE TIPS
 
