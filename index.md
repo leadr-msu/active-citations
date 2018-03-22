@@ -82,7 +82,7 @@ Note that some online bibliographies provide an article's DOI but may "hide" the
 
 ##### ARTICLE WITH DOI ASSIGNED
 
-Author, A. A., & Author, B. B. (Date of publication). Title of article. _Title of Journal, volume number, _page range. doi:0000000/000000000000 or http://dx.doi.org/10.0000/0000
+Author, A. A., & Author, B. B. (Date of publication). Title of article. _Title of Journal, volume number, _page range. doi:0000000/000000000000 or [http://dx.doi.org/10.0000/0000](http://dx.doi.org/10.0000/0000)
 
 Brownlie, D. (2007). Toward effective poster presentations: An annotated bibliography. _European Journal of Marketing, 41_, 1245-1283. doi:10.1108/03090560710821161
 
@@ -145,10 +145,10 @@ Novak, William J. “The Myth of the ‘Weak’ American State.” American Hist
 For articles that have not been assigned a DOI (or if the DOI cannot be determined), include a URL. The URL in the following example—consulted through the academic journals archive JSTOR—was listed along with the article as a more stable (and shorter) alternative to the URL that appeared in the browser’s address bar. For access dates (not shown here), see 14.185.
 
 Footnote:
-12. Wilfried Karmaus and John F. Riebow, “Storage of Serum in Plastic and Glass Containers May Alter the Serum Concentration of Polychlorinated Biphenyls,” Environmental Health Perspectives 112 (May 2004): 645, http://www.jstor.org/stable/3435987.
+12. Wilfried Karmaus and John F. Riebow, “Storage of Serum in Plastic and Glass Containers May Alter the Serum Concentration of Polychlorinated Biphenyls,” Environmental Health Perspectives 112 (May 2004): 645, [http://www.jstor.org/stable/3435987](http://www.jstor.org/stable/3435987).
 
 Bibliography:
-Karmaus, Wilfried, and John F. Riebow. “Storage of Serum in Plastic and Glass Containers May Alter the Serum Concentration of Polychlorinated Biphenyls.” Environmental Health Perspectives 112 (May 2004): 643–47. http://www.jstor.org/stable/3435987.
+Karmaus, Wilfried, and John F. Riebow. “Storage of Serum in Plastic and Glass Containers May Alter the Serum Concentration of Polychlorinated Biphenyls.” Environmental Health Perspectives 112 (May 2004): 643–47. [http://www.jstor.org/stable/3435987](http://www.jstor.org/stable/3435987).
 
 -----
 ### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
